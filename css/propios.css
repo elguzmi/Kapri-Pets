@@ -1,0 +1,52 @@
+.formulario{
+    padding-top: 0px;
+}
+
+.masthead{
+    padding-bottom: 2rem !important;
+    margin-bottom: 2rem;
+}
+
+.main{
+    margin-bottom: 0px;
+    padding-bottom: 0px !important;
+}
+
+.masthead .mainContainer{
+    width: 100% !important;
+    margin: auto;
+    height: 90vh;
+
+}
+
+.bg-dog{
+    background-image: url('./../assets/img/prueba.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom;
+}
+
+.bg-dogs{
+    background-image: url('./../assets/img/Dogs_bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.comp{
+    height: 100vh !important;
+}
+
+.form{
+    width: 40%;
+    margin-left: 10%;
+}
+
+@media screen and (max-width:900px) {
+    footer .row{
+        flex-direction: column-reverse;
+    }
+
+    .logo-imagen{
+        width: 40% !important;
+    }
+}
