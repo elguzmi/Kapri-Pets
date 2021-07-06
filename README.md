@@ -1,1 +1,1 @@
-Sistema desarrollado por Santiago Guzman, sistema de informacion kapritechnology 
+ sistema de informacion kapritechnology dedicado a las mascotas
